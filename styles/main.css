@@ -1,10 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Serif&family=Open+Sans&display=swap');
 
 :root{
-    --lightColor: #efe3df;
-    --textColor: #2b2024;
-    --bgLink: #673D3F;
-    --bgLinkHover: #b05459;
+    --lightColor: #000000c4;
+    --textColor: #ff0000;
+    --bgLink: #ff000d;
+    --bgLinkHover: #fbff00;
 
 }
 body{
